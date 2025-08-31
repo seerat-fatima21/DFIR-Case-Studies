@@ -10,5 +10,5 @@
 
 ## Additional Notes & Analysis
 *   A firewall should have been a primary security control.
-*   The recovery strategy would rely on the availability of recent, uncorrupted backups.
+*   Use of recent, good backups to restore the system and not lose any data.
 *   There is no guarantee that paying the ransom would result in file decryption.
